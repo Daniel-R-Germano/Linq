@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixationLinq", "FixationLinq\FixationLinq.csproj", "{AC9FC8CC-4F01-40E3-B400-10C45E30F12F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9FC8CC-4F01-40E3-B400-10C45E30F12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9FC8CC-4F01-40E3-B400-10C45E30F12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9FC8CC-4F01-40E3-B400-10C45E30F12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9FC8CC-4F01-40E3-B400-10C45E30F12F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {484AF3BB-F041-4531-93CF-D1A4B048C9B3}
+	EndGlobalSection
+EndGlobal

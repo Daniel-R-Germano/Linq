@@ -1,0 +1,14 @@
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\bin\Debug\net8.0\FixationLinq.exe
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\bin\Debug\net8.0\FixationLinq.deps.json
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\bin\Debug\net8.0\FixationLinq.runtimeconfig.json
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\bin\Debug\net8.0\FixationLinq.dll
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\bin\Debug\net8.0\FixationLinq.pdb
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\obj\Debug\net8.0\FixationLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\obj\Debug\net8.0\FixationLinq.AssemblyInfoInputs.cache
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\obj\Debug\net8.0\FixationLinq.AssemblyInfo.cs
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\obj\Debug\net8.0\FixationLinq.csproj.CoreCompileInputs.cache
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\obj\Debug\net8.0\FixationLinq.dll
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\obj\Debug\net8.0\refint\FixationLinq.dll
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\obj\Debug\net8.0\FixationLinq.pdb
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\obj\Debug\net8.0\FixationLinq.genruntimeconfig.cache
+C:\Users\danei\Desktop\faculdade\c# códigos\FixationLinq\FixationLinq\obj\Debug\net8.0\ref\FixationLinq.dll

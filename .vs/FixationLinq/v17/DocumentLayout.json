@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danei\\Desktop\\faculdade\\c# c\u00F3digos\\FixationLinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9FC8CC-4F01-40E3-B400-10C45E30F12F}|FixationLinq\\FixationLinq.csproj|c:\\users\\danei\\desktop\\faculdade\\c# c\u00F3digos\\fixationlinq\\fixationlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9FC8CC-4F01-40E3-B400-10C45E30F12F}|FixationLinq\\FixationLinq.csproj|solutionrelative:fixationlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9FC8CC-4F01-40E3-B400-10C45E30F12F}|FixationLinq\\FixationLinq.csproj|c:\\users\\danei\\desktop\\faculdade\\c# c\u00F3digos\\fixationlinq\\fixationlinq\\peopledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9FC8CC-4F01-40E3-B400-10C45E30F12F}|FixationLinq\\FixationLinq.csproj|solutionrelative:fixationlinq\\peopledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeopleData.cs",
+              "DocumentMoniker": "C:\\Users\\danei\\Desktop\\faculdade\\c# c\u00F3digos\\FixationLinq\\FixationLinq\\PeopleData.cs",
+              "RelativeDocumentMoniker": "FixationLinq\\PeopleData.cs",
+              "ToolTip": "C:\\Users\\danei\\Desktop\\faculdade\\c# c\u00F3digos\\FixationLinq\\FixationLinq\\PeopleData.cs",
+              "RelativeToolTip": "FixationLinq\\PeopleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:09:22.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danei\\Desktop\\faculdade\\c# c\u00F3digos\\FixationLinq\\FixationLinq\\Program.cs",
+              "RelativeDocumentMoniker": "FixationLinq\\Program.cs",
+              "ToolTip": "C:\\Users\\danei\\Desktop\\faculdade\\c# c\u00F3digos\\FixationLinq\\FixationLinq\\Program.cs",
+              "RelativeToolTip": "FixationLinq\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:05:43.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
